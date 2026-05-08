@@ -78,11 +78,7 @@ https://employee-attrition-intelligence-system-j2gwo8jkucucpgmjmfk4wx.streamlit.
 
 ### 🏠 Dashboard Homepage
 
-
-```
-
 ![Dashboard Homepage](images/dashboard_homepage.png)
-
 ---
 
 ### 📊 Executive Workforce KPI Dashboard
