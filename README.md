@@ -78,8 +78,7 @@ https://employee-attrition-intelligence-system-j2gwo8jkucucpgmjmfk4wx.streamlit.
 
 ### 🏠 Dashboard Homepage
 
-```md
-![Dashboard Homepage](images/dashboard_homepage.png)
+
 ```
 
 ![Dashboard Homepage](images/dashboard_homepage.png)
@@ -88,8 +87,7 @@ https://employee-attrition-intelligence-system-j2gwo8jkucucpgmjmfk4wx.streamlit.
 
 ### 📊 Executive Workforce KPI Dashboard
 
-```md
-![Executive KPI Dashboard](images/executive_kpi_section.png)
+
 ```
 
 ![Executive KPI Dashboard](images/executive_kpi_section.png)
@@ -98,9 +96,7 @@ https://employee-attrition-intelligence-system-j2gwo8jkucucpgmjmfk4wx.streamlit.
 
 ### 🚨 Employee Risk Prediction
 
-```md
-![Employee Risk Prediction](images/employee_risk_prediction.png)
-```
+
 
 ![Employee Risk Prediction](images/employee_risk_prediction.png)
 
@@ -108,9 +104,7 @@ https://employee-attrition-intelligence-system-j2gwo8jkucucpgmjmfk4wx.streamlit.
 
 ### 🧠 SHAP Explainability Analysis
 
-```md
-![SHAP Explainability](images/shap_explainability_analysis.png)
-```
+
 
 ![SHAP Explainability](images/shap_explainability_analysis.png)
 
